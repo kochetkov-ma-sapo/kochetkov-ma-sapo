@@ -12,7 +12,8 @@ Building small things on the web and experimenting with AI-assisted development.
 
 | Project | Description |
 |---------|-------------|
-| [hello-world](https://github.com/kochetkov-ma-sapo/hello-world) | Starter repository |
+| [todo-cli](https://github.com/kochetkov-ma-sapo/todo-cli) | Python CLI todo list with JSON file storage |
+| [unit-converter](https://github.com/kochetkov-ma-sapo/unit-converter) | C# .NET console converter for length, weight and temperature |
 
 ## GitHub stats
 
