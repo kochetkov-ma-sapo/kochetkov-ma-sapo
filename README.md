@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kochetkov-ma-sapo/kochetkov-ma-sapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm kochetkov-ma-sapo
 
-Here are some ideas to get you started:
+Building small things on the web and experimenting with AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [hello-world](https://github.com/kochetkov-ma-sapo/hello-world) | Starter repository |
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kochetkov-ma-sapo&show_icons=true&hide_border=true" alt="kochetkov-ma-sapo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochetkov-ma-sapo&layout=compact&hide_border=true" alt="kochetkov-ma-sapo's top languages" />
+</p>
